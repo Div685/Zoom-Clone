@@ -1,4 +1,4 @@
-# Zoom-Clone
+# ZOOM CLONE
 
 Zoom Clone using Nodejs, Express server, Peerjs Library, Socket.io, ejs and UUID
 
