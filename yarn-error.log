@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Python38\Scripts\;C:\Python38\; ;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_251\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Users\Divyesh\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Divyesh\AppData\Local\Programs\Python\Python38-32\;C:\Users\Divyesh\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Users\Divyesh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Divyesh\AppData\Roaming\npm;C:\Users\Divyesh\AppData\Local\Yarn\bin;C:\Flutter_Windows\flutter\bin;C:\Program Files\Sublime Text 3;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.18.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+
+npm manifest: 
+  {
+    "name": "zoom-clone-node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
